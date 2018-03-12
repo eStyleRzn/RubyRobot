@@ -1,0 +1,1 @@
+ruby bin/robot -f test.data
